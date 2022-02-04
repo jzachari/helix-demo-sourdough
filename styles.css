@@ -24,7 +24,7 @@ body {
 }
 
 .hero h1, h2, h3 {
-    z-index: 2;
+    /* z-index: 2; */
     position: relative;
     /* background: #303030; */
     background: rgba(0, 0, 0, 0.6);
