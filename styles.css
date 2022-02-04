@@ -27,7 +27,7 @@ body {
     z-index: 2;
     position: relative;
     /* background: #303030; */
-    background: rgba(0, 0, 0, 0.4);
+    background: rgba(0, 0, 0, 0.1);
     color: #b0ddff;
     padding: 6px 24px;
     margin: 0;
